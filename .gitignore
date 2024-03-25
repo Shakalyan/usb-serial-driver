@@ -5,4 +5,4 @@ modules.order
 usb-serial.ko
 usb-serial.mod*
 usb-serial.o
-
+*.sh
